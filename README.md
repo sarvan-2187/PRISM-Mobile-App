@@ -1,4 +1,4 @@
-# PRISM App (`prism_expo_app/`)
+# PRISM App
 
 The whole PRISM payment portal on a phone: sign in, balance, Cr/Dr statement,
 send, review, approve, step-up, receive by QR, scan, security timeline, plus a
